@@ -32,6 +32,14 @@ text-transform: uppercase;
     display: flex;
     align-items: center;
 }
+.social_media_list_item{
+display: flex;
+width: 28px;
+height: 28px;
+justify-content: center;
+align-items: center;
+color: #FFFFFF;
+}
 
 
 .section-first{
