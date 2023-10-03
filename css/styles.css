@@ -9,6 +9,10 @@ body{
     height: 697px;
     top: 18px;
 }
+.nav_header{
+    display: flex;
+    align-items: center;
+}
 .section-first-picture2{
     width: 115px;
     height: 111px;
