@@ -1,0 +1,12 @@
+body{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    background-color: #FFFFFF;
+    color: #434455;
+}
+
+h1,h2,h3,h4,h5,h6,p,a{
+    margin-top: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
