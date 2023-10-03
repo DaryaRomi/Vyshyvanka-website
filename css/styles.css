@@ -9,6 +9,11 @@ body{
     height: 697px;
     top: 18px;
 }
+.header_logo{
+    color: #ECD979;
+    width: 44px;
+    height: 39px;
+}
 .nav_header{
     display: flex;
     align-items: center;
