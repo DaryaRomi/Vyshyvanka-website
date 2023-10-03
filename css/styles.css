@@ -1,12 +1,24 @@
 body{
     font-family: "Roboto", sans-serif;
     font-style: normal;
-    background-color: #FFFFFF;
-    color: #434455;
+    background-color: #1C2225;
+    color: #FFFFFF;
 }
 
 h1,h2,h3,h4,h5,h6,p,a{
     margin-top: 0;
     margin-bottom: 0;
     text-decoration: none;
+}
+.body{
+    width: 1440px;
+    height: 697px;
+    top: 18px;
+}
+.section-first-picture2{
+    width: 115px;
+    height: 111px;
+    top: 218px;
+    left: 1225px;
+    gap: 16px;
 }
